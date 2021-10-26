@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>TopBar.qml</file>
+        <file>MainWIndow.qml</file>
+        <file>main.qml</file>
+        <file>ApplicationPanel.qml</file>
+        <file>ApplicationButton.qml</file>
+        <file>PropertyPanel.qml</file>
+        <file>img/openfile.png</file>
+        <file>img/about.png</file>
+        <file>img/save.png</file>
+        <file>img/play.png</file>
+        <file>img/playing.png</file>
+        <file>img/play_disabled.png</file>
+        <file>img/play_hovedred.png</file>
+        <file>img/application.png</file>
+        <file>img/logo.png</file>
+        <file>img/save_hovered.png</file>
+        <file>img/openfile_hovered.png</file>
+        <file>img/about_hovered.png</file>
+    </qresource>
+</RCC>
